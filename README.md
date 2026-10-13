@@ -1,5 +1,3 @@
-# ProjectLab by Osama Salamat
-
 A responsive React + TypeScript starter website for an independent computing education resource. Built with Vite and React Router for local development in VS Code on Windows.
 
 ## Implemented in this foundation release
